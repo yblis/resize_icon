@@ -53,7 +53,7 @@ This Python-based application provides a user-friendly graphical interface for r
 ## File Structure
 ```
 image_resizer/
-├── image_resizer.py   # Main application script
+├── app.py   # Main application script
 └── README.md          # Documentation
 ```
 
