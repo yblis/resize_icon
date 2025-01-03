@@ -21,7 +21,7 @@ This Python-based application provides a user-friendly graphical interface for r
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [[<repository-url>](https://github.com/yblis/resize_icon)](https://github.com/yblis/resize_icon)
+   git clone https://github.com/yblis/resize_icon
    cd resize_icon
    ```
 2. Install the required dependencies:
