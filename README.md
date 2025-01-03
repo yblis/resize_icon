@@ -1,5 +1,7 @@
 # Image Resizer Application
 
+![Resize tool](images/resize-tool.png)
+
 ## Overview
 This Python-based application provides a user-friendly graphical interface for resizing images to multiple predefined or custom sizes. Built using PyQt6, it allows users to quickly select an image, choose output sizes, and save resized images in various formats.
 
