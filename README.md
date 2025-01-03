@@ -69,10 +69,6 @@ image_resizer/
 4. **Error Handling**:
    - The application provides user-friendly error messages for issues such as unsupported formats, missing output directories, or invalid inputs.
 
-## Screenshots
-![Main Window](screenshots/main_window.png)
-![Add Sizes Dialog](screenshots/add_sizes_dialog.png)
-
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
